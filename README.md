@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Kannaiahgaritharun/leetcode_solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Kannaiahgaritharun/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kannaiahgaritharun/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Kannaiahgaritharun/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kannaiahgaritharun/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Kannaiahgaritharun/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Kannaiahgaritharun/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Kannaiahgaritharun/leetcode_solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kannaiahgaritharun/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/Kannaiahgaritharun/leetcode_solutions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Kannaiahgaritharun/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Kannaiahgaritharun/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Kannaiahgaritharun/leetcode_solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
