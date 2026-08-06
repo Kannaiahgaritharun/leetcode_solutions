@@ -1,23 +1,11 @@
-class Solution:
-    def containsDuplicate(self, nums: List[int]) -> bool:
-        freq = {}
+class Solution(object):
+    def containsDuplicate(self, nums):
+        seen = set()
+
         for num in nums:
-            if num in freq:
-                freq[num] += 1
-            else:
-                freq[num] = 1
-        for key in freq:
-            if freq[key] > 1:
+            if num in seen:
                 return True
-          
+            seen.add(num)
+
         return False
-    
-
-   
-
-
-
-
-
-
-        
+            
